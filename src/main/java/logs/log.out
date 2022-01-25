@@ -226,3 +226,17 @@
 2022-01-25 17:01:995 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (a0ebd4a701c05fb8eef886c3c0ea822b)] -> xpath: //input[@id='continue']]
 2022-01-25 17:01:112 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
 2022-01-25 17:01:242 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 22:01:807 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 22:01:436 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 22:01:465 INFO  HomePage :41 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //input[@id='login-button']]
+2022-01-25 22:01:145 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 22:01:435 INFO  ProductPage :46 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 22:01:599 INFO  ProductPage :46 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 22:01:704 INFO  ProductPage :54 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 22:01:840 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 22:01:17 INFO  CheckOutInformationPage :37 - Entering first name: Gary
+2022-01-25 22:01:127 INFO  CheckOutInformationPage :39 - Entering last name: Barlow
+2022-01-25 22:01:227 INFO  CheckOutInformationPage :41 - Entering Zip information: AB12 2JU
+2022-01-25 22:01:253 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //input[@id='continue']]
+2022-01-25 22:01:375 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 22:01:485 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
