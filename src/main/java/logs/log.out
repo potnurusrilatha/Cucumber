@@ -240,3 +240,21 @@
 2022-01-25 22:01:253 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //input[@id='continue']]
 2022-01-25 22:01:375 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
 2022-01-25 22:01:485 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2023-01-18 19:01:735 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 19:01:238 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 19:01:644 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 20:01:273 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 21:01:703 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 21:01:287 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 21:01:01 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:672 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:288 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:108 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:437 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:715 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:123 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:522 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-18 22:01:355 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-19 15:01:942 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-19 15:01:761 INFO  ManageDriver :33 - Launching Chrome Browser
+2023-01-19 15:01:464 INFO  ManageDriver :33 - Launching Chrome Browser

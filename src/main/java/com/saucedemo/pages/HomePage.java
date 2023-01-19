@@ -40,7 +40,7 @@ public class HomePage extends Utility {
     public void clickOnLogin() throws InterruptedException {
         log.info("Clicking on Login button: " + loginButton.toString());
         pmClickOnElement(loginButton);
-        Thread.sleep(500);
+        Thread.sleep(1000);
 
 
     }

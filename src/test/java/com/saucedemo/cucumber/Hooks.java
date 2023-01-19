@@ -16,7 +16,7 @@ public class Hooks extends Utility {
     public void setUp() {
 
         selectBrowser(PropertyReader.getInstance().getProperty("browser"));
-        Reporter.assignAuthor("Chetan Patel");
+        Reporter.assignAuthor("Srilatha");
     }
 
     //This will run after every scenario

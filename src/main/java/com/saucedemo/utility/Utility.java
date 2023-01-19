@@ -394,7 +394,7 @@ public class Utility extends ManageDriver {
      *Screenshot methods
      */
     public static String pmTakeScreenShot(String fileName) {
-        String filePath = System.getProperty("user.dir") + "/test-output/html/"; // path where screen shot needs to be saved
+        String filePath = System.getProperty("C:\\Users\\Srilatha\\eclipse-workspace\\Cucumber\\Wk20_SauceDemo_cucumberCP\\target\\surefire-reports") + "/test-output/html/"; // path where screen shot needs to be saved
         TakesScreenshot screenshot = (TakesScreenshot) driver; // method to take screenshot
         File scr1 = screenshot.getScreenshotAs(OutputType.FILE);
         String imageName = fileName + currentTimeStamp() + ".jpg";
@@ -611,7 +611,7 @@ public class Utility extends ManageDriver {
         File source = ts.getScreenshotAs(OutputType.FILE);
 
         // After execution, you could see a folder "FailedTestsScreenshots" under screenshot folder
-        String destination = System.getProperty("user.dir") + "/src/main/java/screenshots/" + screenshotName + dateName + ".png";
+        String destination = System.getProperty("C:\\Users\\Srilatha\\eclipse-workspace\\Cucumber\\Wk20_SauceDemo_cucumberCP\\target\\surefire-reports") + "/src/main/java/screenshots/" + screenshotName + dateName + ".png";
         File finalDestination = new File(destination);
         try {
             FileUtils.copyFile(source, finalDestination);
