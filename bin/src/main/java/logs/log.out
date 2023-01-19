@@ -1,0 +1,242 @@
+2022-01-25 02:01:71 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:30 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:409 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:267 INFO  HomePage :37 - Entering username and password to login: Satandard_user & secret_sauce
+2022-01-25 09:01:422 INFO  HomePage :41 - Clicking on Login button: 
+2022-01-25 09:01:573 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:123 INFO  HomePage :37 - Entering username and password to login: Satandard_user & secret_sauce
+2022-01-25 09:01:258 INFO  HomePage :41 - Clicking on Login button: 
+2022-01-25 09:01:41 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:580 INFO  HomePage :37 - Entering username and password to login: Satandard_user & secret_sauce
+2022-01-25 09:01:728 INFO  HomePage :41 - Clicking on Login button: 
+2022-01-25 09:01:995 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:263 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 09:01:970 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:679 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 09:01:602 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 10:01:936 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 10:01:917 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 10:01:582 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 10:01:226 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 10:01:363 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 10:01:551 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 10:01:595 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 10:01:668 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 10:01:724 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 10:01:811 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 10:01:446 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 10:01:461 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 10:01:509 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 11:01:67 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 11:01:292 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 11:01:332 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 11:01:985 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 11:01:230 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 11:01:270 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 11:01:409 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 11:01:434 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 11:01:474 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 11:01:48 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 11:01:899 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 11:01:939 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 11:01:979 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 11:01:389 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 11:01:429 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 11:01:544 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 11:01:329 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 11:01:363 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 12:01:42 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 12:01:105 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 12:01:143 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 12:01:662 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 12:01:630 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 12:01:667 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 13:01:570 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:810 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:846 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 13:01:858 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:937 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:974 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 13:01:763 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:282 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:312 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 13:01:432 INFO  ProductPage :45 - Sorting the products as prices high to low: high to low
+2022-01-25 13:01:572 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:425 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:459 INFO  HomePage :40 - Clicking on Login button: 
+2022-01-25 13:01:588 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:824 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (381600570b2a456a8f5d21fd3b769dc9)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:932 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (381600570b2a456a8f5d21fd3b769dc9)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:22 INFO  ProductPage :57 - Clicking on the cart button: 2
+2022-01-25 13:01:114 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:258 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:345 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:447 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:523 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (381600570b2a456a8f5d21fd3b769dc9)] -> xpath: //input[@id='continue']]
+2022-01-25 13:01:555 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:630 INFO  CheckOutCompletePage :25 - Verifying the message: [[ChromeDriver: chrome on WINDOWS (381600570b2a456a8f5d21fd3b769dc9)] -> xpath: //h2[normalize-space()='THANK YOU FOR YOUR ORDER']]
+2022-01-25 13:01:411 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:919 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:940 INFO  HomePage :40 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (3078d51d31d51904c08d0fa024fca1c7)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:65 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:261 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (3078d51d31d51904c08d0fa024fca1c7)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:365 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (3078d51d31d51904c08d0fa024fca1c7)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:445 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (3078d51d31d51904c08d0fa024fca1c7)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:539 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:688 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:776 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:878 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:640 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:259 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:281 INFO  HomePage :40 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (77750fa56628d50f507f08bbe3ccf394)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:415 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:637 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (77750fa56628d50f507f08bbe3ccf394)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:727 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (77750fa56628d50f507f08bbe3ccf394)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:813 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (77750fa56628d50f507f08bbe3ccf394)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:904 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:53 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:142 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:241 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:271 INFO  CheckOutInformationPage :44 - Clicking on continue button: 
+2022-01-25 13:01:358 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:435 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 13:01:410 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:487 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:517 INFO  HomePage :40 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (5bba407fa348e5e555d9872daa9a4390)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:644 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:851 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (5bba407fa348e5e555d9872daa9a4390)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:955 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (5bba407fa348e5e555d9872daa9a4390)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:42 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (5bba407fa348e5e555d9872daa9a4390)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:133 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:280 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:365 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:466 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:496 INFO  CheckOutInformationPage :44 - Clicking on continue button: 
+2022-01-25 13:01:841 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:923 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 13:01:261 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:768 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:794 INFO  HomePage :40 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (e132bc6cfff515652ea23999b1d082bf)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:935 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:143 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (e132bc6cfff515652ea23999b1d082bf)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:259 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (e132bc6cfff515652ea23999b1d082bf)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:340 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (e132bc6cfff515652ea23999b1d082bf)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:433 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:580 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:670 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:773 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:798 INFO  CheckOutInformationPage :44 - Clicking on continue button: 
+2022-01-25 13:01:390 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:470 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 13:01:445 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:926 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:947 INFO  HomePage :40 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (634c68d50a4a6d236c595a93a0b8ba7f)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:93 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:307 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (634c68d50a4a6d236c595a93a0b8ba7f)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:409 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (634c68d50a4a6d236c595a93a0b8ba7f)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:493 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (634c68d50a4a6d236c595a93a0b8ba7f)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:580 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:723 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:813 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:916 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:946 INFO  CheckOutInformationPage :44 - Clicking on continue button: 
+2022-01-25 13:01:51 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:128 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 13:01:256 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:701 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:722 INFO  HomePage :40 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (7d4afe2f4dae6e6446862dcf91b181f1)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:867 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:162 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (7d4afe2f4dae6e6446862dcf91b181f1)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:251 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (7d4afe2f4dae6e6446862dcf91b181f1)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:334 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (7d4afe2f4dae6e6446862dcf91b181f1)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:417 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:563 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:649 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:754 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:772 INFO  CheckOutInformationPage :44 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (7d4afe2f4dae6e6446862dcf91b181f1)] -> xpath: //input[@id='continue']]
+2022-01-25 13:01:869 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:951 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 13:01:640 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:278 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:303 INFO  HomePage :40 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (09d4c867e90a0ef14e4d104e7d2daa7e)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:446 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:895 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (09d4c867e90a0ef14e4d104e7d2daa7e)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:994 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (09d4c867e90a0ef14e4d104e7d2daa7e)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:81 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (09d4c867e90a0ef14e4d104e7d2daa7e)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:170 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:314 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:400 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:502 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:519 INFO  CheckOutInformationPage :44 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (09d4c867e90a0ef14e4d104e7d2daa7e)] -> xpath: //input[@id='continue']]
+2022-01-25 13:01:607 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:689 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 13:01:969 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 13:01:756 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 13:01:779 INFO  HomePage :41 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (26098b03428785d53f09c7737e4d80a1)] -> xpath: //input[@id='login-button']]
+2022-01-25 13:01:420 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 13:01:643 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (26098b03428785d53f09c7737e4d80a1)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:738 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (26098b03428785d53f09c7737e4d80a1)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 13:01:812 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (26098b03428785d53f09c7737e4d80a1)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 13:01:891 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 13:01:15 INFO  CheckOutInformationPage :37 - Entering first name: firstName
+2022-01-25 13:01:90 INFO  CheckOutInformationPage :39 - Entering last name: lastName
+2022-01-25 13:01:176 INFO  CheckOutInformationPage :41 - Entering Zip information: Zip/PostalCode
+2022-01-25 13:01:191 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (26098b03428785d53f09c7737e4d80a1)] -> xpath: //input[@id='continue']]
+2022-01-25 13:01:264 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 13:01:331 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 17:01:131 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 17:01:758 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 17:01:782 INFO  HomePage :41 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (0279d6fe4b0c63119669cb0e3884cbc3)] -> xpath: //input[@id='login-button']]
+2022-01-25 17:01:448 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 17:01:803 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (0279d6fe4b0c63119669cb0e3884cbc3)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 17:01:963 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (0279d6fe4b0c63119669cb0e3884cbc3)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 17:01:97 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (0279d6fe4b0c63119669cb0e3884cbc3)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 17:01:229 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 17:01:433 INFO  CheckOutInformationPage :37 - Entering first name: Gary
+2022-01-25 17:01:550 INFO  CheckOutInformationPage :39 - Entering last name: Barlow
+2022-01-25 17:01:677 INFO  CheckOutInformationPage :41 - Entering Zip information: AB12 2JU
+2022-01-25 17:01:709 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (0279d6fe4b0c63119669cb0e3884cbc3)] -> xpath: //input[@id='continue']]
+2022-01-25 17:01:845 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 17:01:21 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 17:01:727 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 17:01:629 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 17:01:665 INFO  HomePage :41 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (99da7c4430d66043d2991fa795d9b1a3)] -> xpath: //input[@id='login-button']]
+2022-01-25 17:01:378 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 17:01:172 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (99da7c4430d66043d2991fa795d9b1a3)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 17:01:391 INFO  ProductPage :49 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (99da7c4430d66043d2991fa795d9b1a3)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 17:01:544 INFO  ProductPage :57 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (99da7c4430d66043d2991fa795d9b1a3)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 17:01:723 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 17:01:997 INFO  CheckOutInformationPage :37 - Entering first name: Gary
+2022-01-25 17:01:143 INFO  CheckOutInformationPage :39 - Entering last name: Barlow
+2022-01-25 17:01:289 INFO  CheckOutInformationPage :41 - Entering Zip information: AB12 2JU
+2022-01-25 17:01:306 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (99da7c4430d66043d2991fa795d9b1a3)] -> xpath: //input[@id='continue']]
+2022-01-25 17:01:441 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 17:01:555 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 17:01:229 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 17:01:847 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 17:01:879 INFO  HomePage :41 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (a0ebd4a701c05fb8eef886c3c0ea822b)] -> xpath: //input[@id='login-button']]
+2022-01-25 17:01:596 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 17:01:53 INFO  ProductPage :46 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (a0ebd4a701c05fb8eef886c3c0ea822b)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 17:01:290 INFO  ProductPage :46 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (a0ebd4a701c05fb8eef886c3c0ea822b)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 17:01:395 INFO  ProductPage :54 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (a0ebd4a701c05fb8eef886c3c0ea822b)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 17:01:545 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 17:01:736 INFO  CheckOutInformationPage :37 - Entering first name: Gary
+2022-01-25 17:01:849 INFO  CheckOutInformationPage :39 - Entering last name: Barlow
+2022-01-25 17:01:971 INFO  CheckOutInformationPage :41 - Entering Zip information: AB12 2JU
+2022-01-25 17:01:995 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (a0ebd4a701c05fb8eef886c3c0ea822b)] -> xpath: //input[@id='continue']]
+2022-01-25 17:01:112 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 17:01:242 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
+2022-01-25 22:01:807 INFO  ManageDriver :33 - Launching Chrome Browser
+2022-01-25 22:01:436 INFO  HomePage :37 - Entering username and password to login: standard_user & secret_sauce
+2022-01-25 22:01:465 INFO  HomePage :41 - Clicking on Login button: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //input[@id='login-button']]
+2022-01-25 22:01:145 INFO  ProductPage :37 - Sorting the products by prices: high to low
+2022-01-25 22:01:435 INFO  ProductPage :46 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 22:01:599 INFO  ProductPage :46 - Adding product to the cart: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //button[@class='btn btn_primary btn_small btn_inventory']]
+2022-01-25 22:01:704 INFO  ProductPage :54 - Clicking on the cart button: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //span[@class='shopping_cart_badge']]
+2022-01-25 22:01:840 INFO  CartPage :24 - Clicking on the check-out butoon: CHECKOUT
+2022-01-25 22:01:17 INFO  CheckOutInformationPage :37 - Entering first name: Gary
+2022-01-25 22:01:127 INFO  CheckOutInformationPage :39 - Entering last name: Barlow
+2022-01-25 22:01:227 INFO  CheckOutInformationPage :41 - Entering Zip information: AB12 2JU
+2022-01-25 22:01:253 INFO  CheckOutInformationPage :45 - Clicking on continue button: [[ChromeDriver: chrome on WINDOWS (95a54320cf2d144607ea9819dad62adc)] -> xpath: //input[@id='continue']]
+2022-01-25 22:01:375 INFO  CheckOutOverViewPage :24 - Clicking on finish button: FINISH
+2022-01-25 22:01:485 INFO  CheckOutCompletePage :25 - Verifying the message: THANK YOU FOR YOUR ORDER
